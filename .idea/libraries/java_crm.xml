@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java-crm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-crm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
